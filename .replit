@@ -1,4 +1,4 @@
-run = "node tools"
+run = "node token/tools"
 
 [packager]
 language = "nodejs-npm"
