@@ -28,7 +28,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-feather": "^2.0.10",
-    "solc": "^0.8.16",
+    "solc": "^0.8.19",
     "styled-components": "^5.3.5",
     "vite": "^3.0.6"
   }
